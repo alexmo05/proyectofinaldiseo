@@ -1,0 +1,13 @@
+// _mixins.scss
+@mixin breakpoint($point) {
+    @if $point == small {
+      @media (max-width: 600px) { @content; }
+    }
+    @else if $point == medium {
+      @media (max-width: 1024px) { @content; }
+    }
+    @else if $point == large {
+      @media (min-width: 1025px) { @content; }
+    }
+  }
+  
