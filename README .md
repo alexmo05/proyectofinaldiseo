@@ -51,5 +51,5 @@ Alex Muñoz Ortega
 ALEX MUÑOZ ORTEGA
 
 ## Link a la pagina
-[🔗](https://www.figma.com/design/lYcwx6pfEK081nft7yQI3r/Untitled?m=auto&t=BJD2BkoFiUa8ChQG-6)
+[🔗](https://alexmo05.github.io/proyectofinaldiseo/)
 
